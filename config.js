@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'He luu Nhe xin gái!',
+    introTitle: 'He luu Nhe xinh gái!',
     introDesc: `Tớ có điều này muốn hỏi cậu nhớ
     Phải trả lời thật lòng nha`,
     btnIntro: 'hihi',
@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'Mình bận lắm:3',
     question:'Chốt kèo hôm nào báo mình nhá',
     btnReply: 'Gửi cho mình <3',
-    reply: 'Oce tối mai nhé ',
-    mess: 'Oce 🥰. vậy hẹn tối mai nhé 😘😘',
-    messDesc: 'Tối mai 7h mình qua đón nhé.',
+    reply: 'Oce hẹn hôm gần nhất ',
+    mess: 'Oce 🥰',
+    messDesc: 'Hẹn ngày sớm nhất.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100005274729256' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
